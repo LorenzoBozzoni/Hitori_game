@@ -3,7 +3,7 @@ Hitory game python implementation with g2d graphics library.
 
 | Starting board              | Finished puzzle          |
 | ---------------------- | ---------------------- |
-| [![Starting board](https://www.conceptispuzzles.com/picture/11/1369.gif)](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/hitori/rules) | [![Starting board](https://www.conceptispuzzles.com/picture/11/1369.gif)](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/hitori/rules) |
+| [![Starting board](https://www.conceptispuzzles.com/picture/11/1368.gif)](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/hitori/rules) | [![Finished puzzle](https://www.conceptispuzzles.com/picture/11/1369.gif)](https://www.conceptispuzzles.com/index.aspx?uri=puzzle/hitori/rules) |
 
 
 ## How to play
