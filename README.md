@@ -11,7 +11,8 @@ Hitori is played with a grid of squares or cells, with each cell initially conta
 - no row or column can have more than one occurrence of any given number
 - black cells cannot be horizontally or vertically adjacent, although they can be diagonal to one another.
 - the remaining numbered cells must be all connected to each other, horizontally or vertically.
-  
+
+
 More info at [Wikipedia](https://en.wikipedia.org/wiki/Hitori).
 
 ## How to run
